@@ -30,11 +30,11 @@
 
 ---
 
-<!-- ЖИВАЯ СТАТИСТИКА GITHUB (ИСПРАВЛЕННАЯ) -->
+<!-- АЛЬТЕРНАТИВНАЯ РАБОЧАЯ СТАТИСТИКА GITHUB -->
 ### 📊 Моя статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=kocmoc1337&show_icons=true&theme=radical&rank_icon=github&locale=ru" alt="kocmoc1337 github stats" width="49%" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=kocmoc1337&layout=compact&theme=radical&locale=ru" alt="kocmoc1337 top langs" width="49%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=kocmoc1337&show_icons=true&theme=radical&rank_icon=github&locale=ru" alt="kocmoc1337 github stats" width="49%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=kocmoc1337&layout=compact&theme=radical&locale=ru" alt="kocmoc1337 top langs" width="49%" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
   </a>
 </p>
 
-<!-- СЧЁТЧИК ПРОСМОТРОВ ПРОФИЛЯ -->
+<!-- СТАБИЛЬНЫЙ БЕЙДЖ СТАТУСА ВМЕСТО СЛОМАННОГО СЧЁТЧИКА -->
 <p align="right">
-  <img src="https://komarev.com/ghvc/?username=kocmoc1337&color=4fd8ff&style=flat-square&label=Views" alt="Просмотры" />
+  <img src="https://img.shields.io/badge/профиль-активен-4fd8ff?style=flat-square" alt="Статус" />
 </p>
