@@ -30,11 +30,16 @@
 
 ---
 
-<!-- ЖИВАЯ СТАТИСТИКА GITHUB -->
+<!-- ЖИВАЯ СТАТИСТИКА GITHUB (ИСПРАВЛЕННАЯ) -->
 ### 📊 Моя статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kocmoc1337&show_icons=true&theme=radical&rank_icon=github&locale=ru" alt="kocmoc1337 github stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocmoc1337&layout=compact&theme=radical&locale=ru" alt="kocmoc1337 top langs" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=kocmoc1337&show_icons=true&theme=radical&rank_icon=github&locale=ru" alt="kocmoc1337 github stats" width="49%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=kocmoc1337&layout=compact&theme=radical&locale=ru" alt="kocmoc1337 top langs" width="49%" />
+</p>
+
+<p align="center">
+  <!-- Карточка непрерывной активности (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kocmoc1337&theme=radical" alt="kocmoc1337 streak stats" width="99%" />
 </p>
 
 ---
@@ -42,7 +47,7 @@
 <!-- СВЯЗЬ -->
 ### 🤝 Как со мной связаться
 <p align="left">
-  <a href="https://jecrs.t.me" target="_blank">
+  <a href="https://newince.t.me" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://discordapp.com/users/verifactor" target="_blank">
@@ -52,5 +57,5 @@
 
 <!-- СЧЁТЧИК ПРОСМОТРОВ ПРОФИЛЯ -->
 <p align="right">
-  <img src="https://komarev.com/ghvc/?username=kocmoc1337&color=4fd8ff&style=flat-square&label=Просмотры+профиля" alt="Просмотры" />
+  <img src="https://komarev.com/ghvc/?username=kocmoc1337&color=4fd8ff&style=flat-square&label=Views" alt="Просмотры" />
 </p>
