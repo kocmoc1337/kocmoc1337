@@ -16,24 +16,24 @@
 
 ## 👁️ Мои проекты
 
-### 🔥 J.A.R.V.I.S. HUD
+### 🔥 [J.A.R.V.I.S. HUD](https://github.com/kocmoc1337/Jarvis)
 Голосовой интерфейс в стиле Iron Man. Работает в браузере.  
 ⭐ 1 | 🍴 0
 
-### 🕵️ Phantom-osint
+### 🕵️ [Phantom-osint](https://github.com/kocmoc1337/Phantom-osint)
 OSINT-инструмент на Python для сбора информации из открытых источников.  
 ⭐ 1
 
-### ✅ verifactor
+### ✅ [verifactor](https://github.com/kocmoc1337/verifactor)
 Инструмент для верификации и проверки данных на достоверность.
 
-### 📊 benchmarker
+### 📊 [benchmarker](https://github.com/kocmoc1337/benchmarker)
 Тест производительности CPU, RAM, диска и сжатия.
 
-### ⚡ Ryzen_ddos.py
+### ⚡ [Ryzen_ddos.py](https://github.com/kocmoc1337/ryzen_ddos.py)
 Скрипт на Python.
 
-### 🤖 ChatGPT-Next-Web ⚠️ (закрыт)
+### 🤖 [ChatGPT-Next-Web](https://github.com/kocmoc1337/ChatGPT-Next-Web) ⚠️ (закрыт)
 Форк ChatGPT-интерфейса. Закрыт из-за несовместимости с хостингом.
 
 ---
