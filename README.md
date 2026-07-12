@@ -1,6 +1,6 @@
-<div align="center">
-
 # 🏴‍☠️ kocmoc1337
+
+<div align="center">
 
 ### ⚡ "ᴀɴᴏɴʏᴍɪᴛʏ ɪꜱ ᴛʜᴇ ᴋᴇʏ ᴛᴏ ꜰʀᴇᴇᴅᴏᴍ"
 
@@ -33,6 +33,9 @@
 
 ### 🕵️ [Phantom-osint](https://github.com/kocmoc1337/Phantom-osint)
 > OSINT-инструмент на Python для сбора информации из открытых источников.
+
+### ✅ [verifactor](https://github.com/kocmoc1337/verifactor)
+> Инструмент для верификации и проверки данных на достоверность.
 
 ### 📊 [benchmarker](https://github.com/kocmoc1337/benchmarker)
 > Тест производительности CPU, RAM, диска и сжатия.
