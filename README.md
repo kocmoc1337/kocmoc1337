@@ -9,7 +9,7 @@
 
 ---
 
-**👨‍💻 Начинающий Python-разработчик | Создатель J.A.R.V.I.S. | Люблю футуристичные интерфейсы**
+**👨‍💻 15 лет · Python-разработчик · Создатель J.A.R.V.I.S. · Люблю футуристичные интерфейсы**
 
 </div>
 
@@ -17,48 +17,32 @@
 
 ## 🧠 Обо мне
 
-Привет! Я — начинающий разработчик из России. Мне 15 лет, и я увлекаюсь созданием скриптов, автоматизацией и веб-технологиями.
+Привет! Я создаю скрипты, автоматизации и веб-интерфейсы.
 
-Мой главный проект на данный момент — **J.A.R.V.I.S. HUD Interface** — голосовой веб-интерфейс в стиле Iron Man с распознаванием речи, поиском через Wikipedia API, погодой, переводчиком и таймерами.
-
----
-
-## 🛠️ Мой стек технологий
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+Мой главный проект — **J.A.R.V.I.S. HUD Interface** — голосовой интерфейс в стиле Iron Man с реактором, распознаванием речи, Gemini AI, фото, таймерами и кинорежимом.
 
 ---
 
 ## 📂 Мои проекты
 
 ### 🔥 [J.A.R.V.I.S. HUD](https://kocmoc1337.github.io/Jarvis/)
-> Голосовой интерфейс в стиле «Железного человека». Работает прямо в браузере.
+> Голосовой интерфейс в стиле Iron Man. Работает в браузере.
 
 ![Stars](https://img.shields.io/github/stars/kocmoc1337/Jarvis?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/kocmoc1337/Jarvis?style=flat-square)
 
-### 🤖 [ChatGPT-Next-Web](https://github.com/kocmoc1337/ChatGPT-Next-Web) ⚠️ (закрыт)
-> Форк популярного веб-интерфейса для ChatGPT с кастомными стилями. Проект закрыт из-за несовместимости с бесплатным хостингом.
-
-### 🔍 [Phantom-osint](https://github.com/kocmoc1337/Phantom-osint)
-> OSINT-инструмент для сбора информации на Python.
+### 🕵️ [Phantom-osint](https://github.com/kocmoc1337/Phantom-osint)
+> OSINT-инструмент на Python для сбора информации из открытых источников.
 
 ### 📊 [benchmarker](https://github.com/kocmoc1337/benchmarker)
-> Python-проект для тестирования производительности.
+> Тест производительности CPU, RAM, диска и сжатия.
+
+### 🤖 [ChatGPT-Next-Web](https://github.com/kocmoc1337/ChatGPT-Next-Web) ⚠️ (закрыт)
+> Форк ChatGPT-интерфейса. Закрыт из-за несовместимости с хостингом.
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 Статистика
 
 <div align="center">
 
@@ -71,7 +55,8 @@
 
 ## 🤝 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_телеграм)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/deluxegramm)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/verifactor)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kocmoc1337)
 
 ---
@@ -80,6 +65,6 @@
 
 ### 💬 "Ты не просто учишься — ты уже создаёшь!"
 
-**⚡ Дерзай, и у тебя всё получится! ⚡**
+⚡ **Дерзай, и у тебя всё получится!** ⚡
 
 </div>
