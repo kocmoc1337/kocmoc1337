@@ -21,6 +21,8 @@
 
 Мой главный проект на данный момент — **J.A.R.V.I.S. HUD Interface** — голосовой веб-интерфейс в стиле Iron Man с распознаванием речи, поиском через Wikipedia API, погодой, переводчиком и таймерами.
 
+Недавно я экспериментировал с развёртыванием ChatGPT-подобного интерфейса, но, к сожалению, проект оказался несовместим с бесплатным хостингом, и я решил его закрыть. Это был полезный опыт, и я узнал много нового о GitHub, Netlify, Next.js и Gemini API.
+
 ---
 
 ## 🛠️ Мой стек технологий
@@ -47,8 +49,8 @@
 ![Stars](https://img.shields.io/github/stars/kocmoc1337/Jarvis?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/kocmoc1337/Jarvis?style=flat-square)
 
-### 🤖 [ChatGPT-Next-Web](https://github.com/kocmoc1337/ChatGPT-Next-Web)
-> Форк популярного веб-интерфейса для ChatGPT с кастомными стилями.
+### 🤖 [ChatGPT-Next-Web](https://github.com/kocmoc1337/ChatGPT-Next-Web) ⚠️ (закрыт)
+> Форк популярного веб-интерфейса для ChatGPT с кастомными стилями. Проект закрыт из-за несовместимости с бесплатным хостингом.
 
 ### 🔍 [Phantom-osint](https://github.com/kocmoc1337/Phantom-osint)
 > OSINT-инструмент для сбора информации на Python.
