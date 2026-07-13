@@ -28,14 +28,8 @@
 ### 🔥 [J.A.R.V.I.S. HUD](https://kocmoc1337.github.io/Jarvis/)
 > Голосовой интерфейс в стиле Iron Man. Работает в браузере.
 
-![Stars](https://img.shields.io/github/stars/kocmoc1337/Jarvis?style=flat-square)
-![Forks](https://img.shields.io/github/forks/kocmoc1337/Jarvis?style=flat-square)
-
 ### 📍 [GeoSpy Pro](https://github.com/kocmoc1337/GeoSpy)
 > AI-геолокация по фотографиям прямо в браузере. Определяет место съёмки по фото за секунды.
-
-![Stars](https://img.shields.io/github/stars/kocmoc1337/GeoSpy?style=flat-square)
-![Forks](https://img.shields.io/github/forks/kocmoc1337/GeoSpy?style=flat-square)
 
 ### 🕵️ [Phantom-osint](https://github.com/kocmoc1337/Phantom-osint)
 > OSINT-инструмент на Python для сбора информации из открытых источников.
