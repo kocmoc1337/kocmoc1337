@@ -40,9 +40,6 @@
 ### 🕵️ [Phantom-osint](https://github.com/kocmoc1337/Phantom-osint)
 > OSINT-инструмент на Python для сбора информации из открытых источников.
 
-### 🧹 [Digital Trace Cleaner](https://github.com/kocmoc1337/digital-trace-cleaner)
-> Инструмент для проверки email на утечки и очистки цифрового следа.
-
 ### ⚡ [ryzen_ddos.py](https://github.com/kocmoc1337/ryzen_ddos.py)
 > Лёгкий Python-скрипт для нагрузочного тестирования и проверки сетевой устойчивости.
 
