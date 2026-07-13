@@ -34,11 +34,6 @@
 
 ---
 
-## 🔍 [Toska-Search](https://github.com/kocmoc1337/Toska-Search)
-
-> Быстрый инструмент поиска, написанный на Python.
-
----
 
 ## 🕵️ [Phantom-osint](https://github.com/kocmoc1337/Phantom-osint)
 
