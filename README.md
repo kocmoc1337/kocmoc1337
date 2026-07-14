@@ -23,7 +23,7 @@
 
 ---
 
-## 📂 Мои проекты
+## 📂 Мои основные проекты
 
 ### 🔥 [J.A.R.V.I.S. HUD](https://kocmoc1337.github.io/Jarvis/)
 > Голосовой интерфейс в стиле Iron Man. Работает в браузере.
@@ -39,12 +39,6 @@
 
 ### 🧹 [Digital Trace Cleaner](https://github.com/kocmoc1337/digital-trace-cleaner)
 > Инструмент для проверки email на утечки и очистки цифрового следа.
-
-### ⚡ [ryzen_ddos.py](https://github.com/kocmoc1337/ryzen_ddos.py)
-> Лёгкий Python-скрипт для нагрузочного тестирования и проверки сетевой устойчивости.
-
-### ✅ [verifactor](https://github.com/kocmoc1337/verifactor)
-> Инструмент для верификации и проверки данных на достоверность.
 
 ### 📊 [benchmarker](https://github.com/kocmoc1337/benchmarker)
 > Тест производительности CPU, RAM, диска и сжатия.
