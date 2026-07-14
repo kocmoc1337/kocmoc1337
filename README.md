@@ -37,9 +37,6 @@
 ### 🕵️ [Phantom-osint](https://github.com/kocmoc1337/Phantom-osint)
 > OSINT-инструмент на Python для сбора информации из открытых источников.
 
-### 🧹 [Digital Trace Cleaner](https://github.com/kocmoc1337/digital-trace-cleaner)
-> Инструмент для проверки email на утечки и очистки цифрового следа.
-
 ### 📊 [benchmarker](https://github.com/kocmoc1337/benchmarker)
 > Тест производительности CPU, RAM, диска и сжатия.
 
