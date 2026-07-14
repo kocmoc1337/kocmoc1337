@@ -28,14 +28,26 @@
 ### 🔥 [J.A.R.V.I.S. HUD](https://kocmoc1337.github.io/Jarvis/)
 > Голосовой интерфейс в стиле Iron Man. Работает в браузере.
 
-### 📍 [GeoSpy Pro](https://github.com/kocmoc1337/GeoSpy)
-> AI-геолокация по фотографиям прямо в браузере. Определяет место съёмки по фото за секунды.
+![Stars](https://img.shields.io/github/stars/kocmoc1337/Jarvis?style=flat-square)
+![Forks](https://img.shields.io/github/forks/kocmoc1337/Jarvis?style=flat-square)
+
+### 🛠️ [toolkit](https://github.com/kocmoc1337/toolkit)
+> Набор скриптов для автоматизации, тестирования и сетевого анализа.
 
 ### 🕵️ [Phantom-osint](https://github.com/kocmoc1337/Phantom-osint)
 > OSINT-инструмент на Python для сбора информации из открытых источников.
 
+### 🧹 [Digital Trace Cleaner](https://github.com/kocmoc1337/digital-trace-cleaner)
+> Инструмент для проверки email на утечки и очистки цифрового следа.
+
 ### ⚡ [ryzen_ddos.py](https://github.com/kocmoc1337/ryzen_ddos.py)
 > Лёгкий Python-скрипт для нагрузочного тестирования и проверки сетевой устойчивости.
+
+### ✅ [verifactor](https://github.com/kocmoc1337/verifactor)
+> Инструмент для верификации и проверки данных на достоверность.
+
+### 📊 [benchmarker](https://github.com/kocmoc1337/benchmarker)
+> Тест производительности CPU, RAM, диска и сжатия.
 
 ### 🤖 [ChatGPT-Next-Web](https://github.com/kocmoc1337/ChatGPT-Next-Web) ⚠️ (закрыт)
 > Форк ChatGPT-интерфейса. Закрыт из-за несовместимости с хостингом.
